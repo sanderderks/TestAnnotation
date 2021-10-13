@@ -25,6 +25,7 @@
 
     <build>
         <sourceDirectory>src/main/kotlin</sourceDirectory>
+        <defaultGoal>clean install</defaultGoal>
         <plugins>
             <plugin>
                 <groupId>org.jetbrains.kotlin</groupId>
